@@ -13,7 +13,7 @@ const CanvasAnimation = () => {
         canvas.style.background = "black"; // Đặt màu nền đen
 
         let minWidth = 10;
-        let maxWidth = 900;
+        let maxWidth = 700;
         let currentWidth = minWidth;
         let growing = true;
 
